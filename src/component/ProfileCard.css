@@ -1,0 +1,35 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5rem 0;
+}
+
+.card1{
+    width: 18rem;
+    height: 15rem;
+    /* margin: 0 0 10px 10px; */
+}
+.img1{
+    
+    border: 2px solid black;
+    border-radius: 25px;
+
+}
+.id1{
+    border: 10px solid black;
+    border-radius: 36px;
+    width: 42px;
+    color: white;
+    background-color: black;
+    float: right;
+    margin : -20px -10px -3px 0px;
+
+}
+
+.img11{
+    border-radius: 21px;
+    width: 90%;
+    margin: 4px 0px 15px 0px;
+}
+
